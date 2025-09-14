@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const resume = require("./resume.json")
 const color = require("./color")
 

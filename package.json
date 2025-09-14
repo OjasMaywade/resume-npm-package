@@ -1,6 +1,9 @@
 {
   "name": "ojas-maywade",
   "version": "1.0.0",
+  "bin": {
+    "ojas-maywade": "./index.js"
+  },
   "description": "Ojas's Resume Npm Package",
   "main": "index.js",
   "type": "commonjs",
