@@ -1,0 +1,27 @@
+{
+    "name": "Ojas Maywade",
+    "role": "Backend Developer",
+    "location": "India",
+    "email": "ojasmaywade16@gmail.com",
+    "linkedin": "linkedin.com/in/ojas-maywade",
+    "github": "github.com/OjasMaywade",
+    "experience": [
+    "Document Controller → Transitioning to Backend Developer",
+    "2 years of self-taught backend dev experience",
+    "Projects with MERN & PostgreSQL (Kysely)"
+    ],
+    "education":[
+        "Shri RamdeoBaba College of Engineering and Management \n\tB.E Mechanical Engineering\n\t2018-2022",
+        "St. Xavier's High School\n\t2005-2016"
+    ],
+    "projects":[
+        "Postfolio App \n\tApp which have resume like LinkedIn and a CMS",
+        "Streaming App \n\tStream Video like Youtube and Go live with your Follower"
+    ],
+    "skills": [
+    "JavaScript, Node.js, Express.js, TypeScript",
+    "React, MongoDB, PostgreSQL, Kysely, MySql",
+    "REST APIs, Authentication, Cloud Storage"
+    ]
+}
+
