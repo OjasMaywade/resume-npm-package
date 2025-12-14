@@ -6,22 +6,25 @@
     "linkedin": "linkedin.com/in/ojas-maywade",
     "github": "github.com/OjasMaywade",
     "experience": [
-    "Document Controller → Transitioning to Backend Developer",
-    "2 years of self-taught backend dev experience",
-    "Projects with MERN & PostgreSQL (Kysely)"
+    "Engineer, Larsen and Toubro Technology Services \n\t09/2022 - Present \n\t Managed version-controlled documentation for 10+ engineering projects, improving document retrieval speed by 30%",
+    "Backend Developer, Self-taught \n\t01/2023 - Present \n\t 2 years of self-taught backend dev experience, Projects with Node.js & MYSQL (Kysely)"
     ],
     "education":[
         "Shri RamdeoBaba College of Engineering and Management \n\tB.E Mechanical Engineering\n\t2018-2022",
         "St. Xavier's High School\n\t2005-2016"
     ],
     "projects":[
-        "Postfolio App \n\tApp which have resume like LinkedIn and a CMS",
-        "Streaming App \n\tStream Video like Youtube and Go live with your Follower"
+        "folio-One \n\tApp which have resume like LinkedIn and a CMS \n\t live@ - www.folio-one.in github - https://github.com/OjasMaywade/FolioOne",
+        "Streaming App \n\tStream Video like Youtube and Go live with your Follower \n\tgithub - https://github.com/OjasMaywade/Video-Streaming"
     ],
     "skills": [
-    "JavaScript, Node.js, Express.js, TypeScript",
-    "React, MongoDB, PostgreSQL, Kysely, MySql",
-    "REST APIs, Authentication, Cloud Storage"
+    "languages: JavaScript, TypeScript, SQL",
+    "Database - MongoDB, PostgreSQL, MYSQL, Kysely",
+    "frontend - React, HTML, CSS",
+    "Backend - Node, Express, REST APIs",
+    "Authentication - Oauth",
+    "Cloud - AWS EC2, S3, RDS",
+    "Tools - Git"
     ]
 }
 
